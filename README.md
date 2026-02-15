@@ -26,8 +26,9 @@ Mini box CTF basée sur Docker avec :
 ### Build de l’image
 
 ```
-git clone https://github.com/paul02prof/ctf-ftp-box.git
-cd ctf-ftp-box
+
+git clone https://github.com/paul02prof/CTF-FTP-01.git
+cd CTF-FTP-01
 ```
 ### Lancement du conteneur
 
