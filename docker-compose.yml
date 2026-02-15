@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  hackbox:
+    build: .
+    container_name: ctf_ftp_box
+    ports:
+      - "2121:21"
+      - "2222:22"
+      - "8081:80"
+      - "30000-30010:30000-30010"
+    restart: unless-stopped
