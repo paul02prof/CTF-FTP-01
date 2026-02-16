@@ -2,7 +2,7 @@
 # 🧨 CTF FTP Misconfiguration Lab
 
 Mini box CTF basée sur Docker avec :
-- FTP mal configuré (anonymous activé)
+- FTP mal configuré 
 - SSH accessible
 - Web server
 - Escalade de privilèges simple
